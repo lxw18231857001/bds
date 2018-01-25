@@ -1,0 +1,3 @@
+<?php
+//000000036000a:10:{s:11:"SYSTEM_NAME";s:27:"百得胜后台管理系统";s:11:"SYSTEM_LOGO";s:78:"http://localhost/bds/php/uploads/20180103/ebdac47348266ae2876a1c423f59765e.png";s:19:"LOGIN_SESSION_VALID";s:7:"3600000";s:16:"IDENTIFYING_CODE";s:1:"0";s:11:"  LOGO_TYPE";N;s:10:"COPY_RIGHT";s:20:"粤ICP证12029134号";s:6:"BEI_AN";s:17:"粤ICP备12029134";s:8:"KEY_WORD";s:167:" 木纹移门衣柜(欧洲红木)三格均分_木纹系列_百得胜官网，平安的家，百得胜全屋定制，定制您平安的家，无醛添加，环保衣柜";s:11:"DESCRIPTION";s:166:"木纹移门衣柜(欧洲红木)三格均分_木纹系列_百得胜官网，平安的家，百得胜全屋定制，定制您平安的家，无醛添加，环保衣柜";s:13:"SYSTEM_LOGO_M";s:78:"http://localhost/bds/php/uploads/20180103/134f6d2232cd416dee6b0086f02ede44.png";}
+?>
